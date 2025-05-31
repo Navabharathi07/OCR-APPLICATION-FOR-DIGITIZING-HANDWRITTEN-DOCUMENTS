@@ -3,18 +3,6 @@
 
 In today’s fast-evolving digital landscape, this project presents a web-based intelligent application that leverages Google's Gemini Generative AI through its API, combined with the power of Streamlit and Python for rapid development and real-time interaction.
 
-<h3> The system enables users to interact with a large language model via a seamless, intuitive interface to perform tasks such as:</h3>
-
-✍️ Handwritten Document Recognition
-
-🧠 Content Generation & Summarization
-
-🌐 Translation & Code Assistance
-
-💬 Idea Brainstorming
-
-📄 JSON Conversion of Extracted Text
-
 <h3>🚀 Features</h3>
 
 Real-time interaction with Google Gemini via API
@@ -31,7 +19,8 @@ Responsive UI using Streamlit
 
 Use cases in education, digital content creation, productivity, and historical document digitization
 
-🛠️ Technologies Used
+<h3>🛠️ Technologies Used</h3>
+
 Python 🐍
 
 Streamlit 🎛️ – for building the web interface
@@ -42,7 +31,8 @@ OCR Libraries (Tesseract / Google Vision / others as applicable)
 
 JSON – for structured output formatting
 
-🧩 System Architecture
+<H3>🧩 System Architecture</H3>
+
 Frontend (Streamlit): Handles user interaction and visualization
 
 Backend (Python):
@@ -57,7 +47,8 @@ Gemini AI Integration: Generates, summarizes, or translates content
 
 Output: Structured results (e.g., JSON format) or conversational responses
 
-📚 Use Cases
+<H3>📚 Use Cases</H3>
+
 Digitization of handwritten academic notes
 
 Extraction and archival of historical documents
