@@ -1,8 +1,9 @@
 <h1>📄 OCR Application for Digitizing Handwritten Documents</h1>
-🔍 Overview
+<h3>🔍 Overview</h3>
+
 In today’s fast-evolving digital landscape, this project presents a web-based intelligent application that leverages Google's Gemini Generative AI through its API, combined with the power of Streamlit and Python for rapid development and real-time interaction.
 
-The system enables users to interact with a large language model via a seamless, intuitive interface to perform tasks such as:
+<h3> The system enables users to interact with a large language model via a seamless, intuitive interface to perform tasks such as:</h3>
 
 ✍️ Handwritten Document Recognition
 
@@ -14,9 +15,8 @@ The system enables users to interact with a large language model via a seamless,
 
 📄 JSON Conversion of Extracted Text
 
-This application processes scanned handwritten documents, extracts their textual content using AI-based OCR techniques, and structures the output into searchable formats.
+<h3>🚀 Features</h3>
 
-🚀 Features
 Real-time interaction with Google Gemini via API
 
 AI-based OCR for handwritten text recognition
